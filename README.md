@@ -4,13 +4,13 @@ I did
 
 * Create project
 
-    lein new app test
+    `lein new app test`
 
 * Bump to clojure 1.6
 * Enable warn on reflection
 * Run the app
 
-    lein run 20
+    `lein run 20`
 
 Produces
 
